@@ -29,7 +29,7 @@ $ cd cart
 $ npm install 
 ```
 
-Lets set up the service with systemctl.
+Now, lets set up the service with systemctl.
 
 ```
 # mv /home/roboshop/cart/systemd.service /etc/systemd/system/cart.service
